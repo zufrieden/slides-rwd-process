@@ -1,21 +1,21 @@
 .process {
-  margin-bottom: 60px;
-  margin-top: 60px;
-  line-height: 60px;
-  color: #aaaaaa;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  line-height: 50px;
+  color: #333;
   padding: 1px;
-  border: 3px solid #f0f0f0; }
+  border: 3px solid #eee; }
   .process li {
     display: block;
     float: left;
-    background: #f0f0f0;
+    background: #eee;
     padding-right: 20px;
-    height: 60px;
-    line-height: 60px;
-    margin-right: 63px;
+    height: 50px;
+    line-height: 50px;
+    margin-right: 53px;
     position: relative;
     text-decoration: none;
-    color: #aaaaaa; }
+    color: #333; }
     .process li:last-of-type {
       margin-right: 50px; }
     .process li:before {
@@ -25,9 +25,9 @@
       height: 0;
       position: absolute;
       top: 0;
-      left: -60px;
-      border: 30px solid transparent;
-      border-color: #f0f0f0;
+      left: -50px;
+      border: 25px solid transparent;
+      border-color: #eee;
       border-left-color: transparent; }
     .process li:after {
       content: "";
@@ -36,11 +36,11 @@
       height: 0;
       position: absolute;
       top: 0;
-      right: -60px;
-      border: 30px solid transparent;
-      border-left-color: #f0f0f0; }
+      right: -50px;
+      border: 25px solid transparent;
+      border-left-color: #eee; }
     .process li:first-of-type {
-      padding-left: 30px; }
+      padding-left: 25px; }
       .process li:first-of-type:before {
         display: none; }
     .process li.active {
